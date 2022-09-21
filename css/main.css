@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+label {
+    font-size: 19px;
+    color: blue;
+    font-weight: 550;
+}
+
+.ten {
+    text-align: center;
+}
